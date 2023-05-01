@@ -1,2 +1,2 @@
 # WiNS-Collabathon-2023
-This project was created during Collabathon at Women in Network Science.
+This project was created during Collabathon 2023 at Women in Network Science. 
